@@ -21,5 +21,5 @@ starting with certain characters.
 ### How to compile on VScode
 - cmd terminal:
 1. g++ -std=c++17 filename.cpp -o filename  
-2. .\filename [input_folder_path] [query_file_path] [output_file_name]
+2. .\filename [input_folder_path] [query_file_path] [output_file_name]  
    For example: .\filename data query.txt output.txt
